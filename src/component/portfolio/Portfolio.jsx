@@ -1,13 +1,23 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/silent-gestures1.png'
-import IMG2 from '../../assets/viscene-admin-User73Video1-edited.png'
-import IMG3 from '../../assets/CELS.png'
+import PP from '../../assets/personal-portfolio1.png'
+import SG from '../../assets/silent-gestures1.png'
+import VA from '../../assets/viscene-admin-User73Video1-edited.png'
+import CELS from '../../assets/CELS.png'
 
 const data = [
   {
     id: 1,
-    image: IMG1,
+    image: PP,
+    title: "Personal Portfolio",
+    github: "https://github.com/kexinsee99/react-portfolio-website",
+    demo: "https://dribbble.com/shots/22652908-Personal-Portfolio",
+    language: "React JS, CSS",
+    year: 2023
+  },
+  {
+    id: 2,
+    image: SG,
     title: "Silent Gestures",
     github: "https://github.com/kexinsee99/translate-android",
     demo: "https://dribbble.com/shots/22635758-Silent-Gestures",
@@ -15,8 +25,8 @@ const data = [
     year: 2023
   },
   {
-    id: 2,
-    image: IMG2,
+    id: 3,
+    image: VA,
     title: "Viscene Admin",
     github: "",
     demo: "https://dribbble.com/shots/22630119-Viscene-Admin",
@@ -24,35 +34,14 @@ const data = [
     year: 2022
   },
   {
-    id: 3,
-    image: IMG3,
+    id: 4,
+    image: CELS,
     title: "Celebrate Every Little Success",
     github: "",
     demo: "https://dribbble.com/shots/22629222-Celebrate-Every-Little-Success",
     language: "HTML, CSS, jQuery, PHP, Cordova",
     year: 2019
-  },
-  // {
-  //   id: 4,
-  //   image: IMG4,
-  //   title: "Burger Builder",
-  //   github: "https://github.com",
-  //   demo: "https://dribbble.com/Alien_pixels"
-  // },
-  // {
-  //   id: 5,
-  //   image: IMG5,
-  //   title: "Burger Builder",
-  //   github: "https://github.com",
-  //   demo: "https://dribbble.com/Alien_pixels"
-  // },
-  // {
-  //   id: 6,
-  //   image: IMG6,
-  //   title: "Burger Builder",
-  //   github: "https://github.com",
-  //   demo: "https://dribbble.com/Alien_pixels"
-  // }
+  }
 ]
 
 const Portfolio = () => {
