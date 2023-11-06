@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.6e8d1942.css",
-    "main.js": "/react-portfolio-website/static/js/main.9903109b.js",
+    "main.css": "/react-portfolio-website/static/css/main.9628bf35.css",
+    "main.js": "/react-portfolio-website/static/js/main.251e349b.js",
     "static/media/me-about.jpeg": "/react-portfolio-website/static/media/me-about.74cf7bce1f97b01e58be.jpeg",
     "static/media/personal-portfolio1.png": "/react-portfolio-website/static/media/personal-portfolio1.7d3a0dba68dadb306909.png",
     "static/media/CELS.png": "/react-portfolio-website/static/media/CELS.66af9445ceb68f84d900.png",
     "static/media/me.png": "/react-portfolio-website/static/media/me.88f60f17896ae0e3ee7b.png",
+    "static/media/arthome3.jpg": "/react-portfolio-website/static/media/arthome3.2c3bf92b99ba8a796049.jpg",
     "static/media/See Ke Xin Resume.pdf": "/react-portfolio-website/static/media/See Ke Xin Resume.06e834b3e876dac537ec.pdf",
     "static/media/silent-gestures1.png": "/react-portfolio-website/static/media/silent-gestures1.9ab5972eaaf1e4f82d1c.png",
     "static/media/viscene-admin-User73Video1-edited.png": "/react-portfolio-website/static/media/viscene-admin-User73Video1-edited.527ca0eeb36317dafea8.png",
     "index.html": "/react-portfolio-website/index.html",
-    "main.6e8d1942.css.map": "/react-portfolio-website/static/css/main.6e8d1942.css.map",
-    "main.9903109b.js.map": "/react-portfolio-website/static/js/main.9903109b.js.map"
+    "main.9628bf35.css.map": "/react-portfolio-website/static/css/main.9628bf35.css.map",
+    "main.251e349b.js.map": "/react-portfolio-website/static/js/main.251e349b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8d1942.css",
-    "static/js/main.9903109b.js"
+    "static/css/main.9628bf35.css",
+    "static/js/main.251e349b.js"
   ]
 }
