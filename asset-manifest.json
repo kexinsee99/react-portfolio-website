@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.9628bf35.css",
-    "main.js": "/react-portfolio-website/static/js/main.c793f11f.js",
+    "main.css": "/react-portfolio-website/static/css/main.1a65bbde.css",
+    "main.js": "/react-portfolio-website/static/js/main.ace4a4af.js",
     "static/media/me-about.jpeg": "/react-portfolio-website/static/media/me-about.74cf7bce1f97b01e58be.jpeg",
     "static/media/personal-portfolio1.png": "/react-portfolio-website/static/media/personal-portfolio1.7d3a0dba68dadb306909.png",
     "static/media/CELS.png": "/react-portfolio-website/static/media/CELS.66af9445ceb68f84d900.png",
@@ -11,11 +11,11 @@
     "static/media/silent-gestures1.png": "/react-portfolio-website/static/media/silent-gestures1.9ab5972eaaf1e4f82d1c.png",
     "static/media/viscene-admin-User73Video1-edited.png": "/react-portfolio-website/static/media/viscene-admin-User73Video1-edited.527ca0eeb36317dafea8.png",
     "index.html": "/react-portfolio-website/index.html",
-    "main.9628bf35.css.map": "/react-portfolio-website/static/css/main.9628bf35.css.map",
-    "main.c793f11f.js.map": "/react-portfolio-website/static/js/main.c793f11f.js.map"
+    "main.1a65bbde.css.map": "/react-portfolio-website/static/css/main.1a65bbde.css.map",
+    "main.ace4a4af.js.map": "/react-portfolio-website/static/js/main.ace4a4af.js.map"
   },
   "entrypoints": [
-    "static/css/main.9628bf35.css",
-    "static/js/main.c793f11f.js"
+    "static/css/main.1a65bbde.css",
+    "static/js/main.ace4a4af.js"
   ]
 }
