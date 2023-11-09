@@ -34,8 +34,13 @@ const About = () => {
           </div>
 
           <p>
-          My name is Ke Xin, I'm a front-end developer based in Singapore. I just graduated from Singapore Management University (SMU) in July 2023.
-
+            Hello there! I am Ke Xin, a recent graduate from Singapore Management University (SMU) with a degree in Computer Science. I am currently a front-end developer, armed with a passion for turning lines of code into real-world solutions. 
+          </p>
+          <p>
+            From tackling complex coding projects to collaborating on innovative solutions, my journey at SMU has equipped me with the skills to navigate the big world of computer science. I enjoy problem-solving, I am determine to keep pushing boundaries in this ever-expanding digital world.
+          </p>
+          <p>
+            Whether it's crafting elegant algorithms, diving into data structures, or exploring the latest advancements in technology, I'm always up for the challenge. Let's code a brighter future together!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
